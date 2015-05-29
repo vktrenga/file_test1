@@ -1,5 +1,4 @@
 This is Steps For Git Push:
-
 1.Create Account at git
 
 2.create Repository
@@ -32,4 +31,9 @@ This is Steps For Git Push:
 
 (If you want edit your,do process from 8 to 15)
 This is Steps For Git Pull:
-git pull origin master
+1.git pull origin master
+
+Notes:
+You want set step 3 to step 7 every first time both push and pull.
+//Link for this steps at git 
+https://github.com/vktrenga/file_test1/blob/master/raj_test

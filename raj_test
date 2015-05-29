@@ -14,9 +14,9 @@ This is Steps For Git Push:
 
 7.git init
 
-7.git remote add origin https://github.com/vktrenga/file_test1.git (example: here vktrenga->username,file_test.git ->My Repository)
+8.git remote add origin https://github.com/vktrenga/file_test1.git (example: here vktrenga->username,file_test.git ->My Repository)
 
-8.create file and do your changes
+9.create file and do your changes
 
 10.git add "Your File Name" (ex: git add test1)
 
@@ -30,6 +30,6 @@ This is Steps For Git Push:
 
 15.enter your password
 
-(If you want edit your,do process from 8 to 15)
+(If you want edit your,do process from 9 to 15)
 This is Steps For Git Pull:
 git pull origin master

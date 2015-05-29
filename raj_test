@@ -1,1 +1,32 @@
-This is raj test
+This is Steps For Git Push:
+
+1.Create Account at git
+
+2.create Repository
+
+3.Open Terminal
+
+4.Go to your directory
+
+5.git config --global user.name "Enter Your User Name"
+
+6.git config --global user.email "Enter Your Email Id"
+
+7.git init
+
+7.git remote add origin https://github.com/vktrenga/file_test1.git (example: here vktrenga->username,file_test.git ->My Repository)
+
+8.create file and do your changes
+
+10.git add "Your File Name" (ex: git add test1)
+
+11.git add .
+
+12.git commit -m 'comments' (Ex:git commit -m 'edit by rengaraj')
+
+13.git push origin master
+
+14.enter your username
+
+15.enter your password
+

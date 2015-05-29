@@ -32,4 +32,4 @@ This is Steps For Git Push:
 
 (If you want edit your,do process from 8 to 15)
 This is Steps For Git Pull:
-
+git pull origin master
